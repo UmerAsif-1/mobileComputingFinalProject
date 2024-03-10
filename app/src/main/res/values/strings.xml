@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW3MC</string>
+    <string name="my_map_api_key">AIzaSyDI0Dv8PuPkkVZgYtjjJNcHsMFtsAkEsDc</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
