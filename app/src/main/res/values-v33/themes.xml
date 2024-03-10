@@ -9,4 +9,5 @@
         <item name="android:windowSplashScreenBehavior">icon_preferred</item>
 
     </style>
+    <style name="Theme.Maps" parent="Theme.AppCompat.Light.DarkActionBar" />
 </resources>
